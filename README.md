@@ -38,7 +38,7 @@ Follow these steps to run the project locally on your machine:
 
 Clone the repository:
 
-git clone https://github.com/your-username/transportation-problem-solver.git
+git clone https://github.com/3mmarx3/transportation-problem-solver.git
 cd transportation-problem-solver
 
 Install the required dependencies:
